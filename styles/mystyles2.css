@@ -1,4 +1,28 @@
 *{
-font-family: rockwell, bondoni 
+ font-family: Arial; 
 }
 
+header {
+    
+    text-align: center;
+    font-size: 20px; 
+}
+
+article {
+  
+    border: 2px solid #000000;
+    list-style-type: circle ;
+    padding: 10px ;
+    padding-left: 20px;
+    
+}
+
+nav {
+    list-style-type: None;
+    display: inline ;
+  
+}
+
+footer {
+    font-size: 12px;
+}
