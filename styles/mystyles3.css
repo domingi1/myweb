@@ -1,0 +1,41 @@
+#wrapper {
+    font-family: Arial;
+    width: 600px;
+    height: 450px;
+    border: 8px solid #000000;
+}
+
+header{
+    text-align: center;
+    color: darkblue;
+    border: 4px solid #f00000;
+}
+
+aside{
+    float: right;
+    border: 5px solid #f00000;
+    height: 50px;
+    width: 80px; 
+    font-size: 10px;
+    padding: 2px;
+    margin-top: 210px;
+}
+
+nav{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+nav li{
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    
+}
+
+footer {
+    height: 30px;
+    width: 600px;
+    border: 5px solid #000000;
+    margin:3px;
+    clear:left; 
+}
