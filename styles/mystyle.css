@@ -1,25 +1,28 @@
 /* this is my styles sheet */
 
 #wrapper {
-    width: 500px;
+   /* width: 500px;*/
     margin: 30px auto 20px auto;
-    height: 1000px;
-    background: #eeeeee;
+   /* height: 880px; */
+    background: #ffff00;
   
 }
 header {
     width: 100%;
     height: 50px;
-    background:#dddddd;
+    background:#ffdddd;
     text-align: center;
 }
  article-header{
-    background:#fffff0;
+    background:#ffffff;
 }
 nav,aside {
-    background: #dddddd;
-    width: 100px;
+    background: #ffddff;
+    width: 140px;
     float: left;
+}
+li{
+    list-style-type: None;
 }
 
 article{
