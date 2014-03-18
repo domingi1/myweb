@@ -4,17 +4,17 @@
    /* width: 500px;*/
     margin: 30px auto 20px auto;
    /* height: 880px; */
-    background: #ffff00;
   
 }
 header {
     width: 100%;
     height: 50px;
-    background:#ffdddd;
+    background:#f00000;
     text-align: center;
 }
  article-header{
-    background:#ffffff;
+    background:#ffff00;
+    text-align: center;
 }
 nav,aside {
     background: #ffddff;
@@ -29,8 +29,38 @@ article{
     background: #ffffff;
     width: 300px;
     float: left;
+ 
+}
+
+ul#navlist
+{
+margin-left: 0;
+padding-left: 0;
+white-space: nowrap;
+}
+
+#navlist li
+{
+display: inline;
+list-style-type: none;
+}
+
+#navlist a { padding: 3px 10px; }
+
+#navlist a:link, #navlist a:visited
+{
+color: #fff;
+background-color: #000;
+text-decoration: none;
+}
+
+#navlist a:hover
+{
+color: #f00;
+background-color: #369;
+text-decoration: none;
 }
 #page-footer {
    clear:left;
-    background:#dddddd;
+    background:#eeeeee;
 }
