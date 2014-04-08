@@ -1,5 +1,8 @@
 /* this is my styles sheet */
 
+body { background-image:url('https://drive.google.com/uc?id=0B6Yp-3OGVxpFQWRLWWplREs4ck0');
+}
+
 #wrapper {
    /* width: 500px;*/
     margin: 30px auto 20px auto;
@@ -17,7 +20,6 @@ header {
     text-align: center;
 }
 nav,aside {
-    background: #ffddff;
     width: 140px;
     float: left;
 }
@@ -33,9 +35,7 @@ article{
     background: #ffffff;
     width: 500px;
     float: center;
- 
 }
-
 ul#navlist
 {
 margin-left: 0;
@@ -61,7 +61,7 @@ text-decoration: none;
 #navlist a:hover
 {
 color: #f00;
-background-color: #369;
+background-color: #000;
 text-decoration: none;
 }
 #page-footer {
@@ -100,5 +100,6 @@ aside{
         display: none;
     }
 }
+
 
 
