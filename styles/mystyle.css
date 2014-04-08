@@ -31,10 +31,15 @@ li{
     background-color: red;
 }
 
+
 article{
-    background: #ffffff;
+    background: #ff0000;
     width: 500px;
     float: center;
+    margin: 90px;
+}
+aside{
+    margin: 80px;
 }
 ul#navlist
 {
