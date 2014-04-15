@@ -65,6 +65,9 @@ text-decoration: none;
  footer {
      font-size: 12px;
  }
+ form{
+      width: 10px;
+ }
 
 img {
     border: 5px solid;
