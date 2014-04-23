@@ -1,12 +1,41 @@
-
 body { background-image:url('https://drive.google.com/uc?id=0B6Yp-3OGVxpFQWRLWWplREs4ck0');
 }
 h1{
-    float: center;
+  text-align: center;
 }
 
 img{
-    border: 5px solid #000000;
+    border: 5px solid #0000ff;
     padding: 10px;
-    margin: auto auto;
+    float: left;
+}
+
+}
+ul#navlist
+{
+margin-left: 0;
+padding-left: 0;
+white-space: nowrap;
+}
+
+#navlist li
+{
+display: inline;
+list-style-type: none;
+}
+
+#navlist a { padding: 3px 10px; }
+
+#navlist a:link, #navlist a:visited
+{
+color: #fff;
+background-color: #000;
+text-decoration: none;
+}
+
+#navlist a:hover
+{
+color: #00f;
+background-color: #000;
+text-decoration: none;
 }
