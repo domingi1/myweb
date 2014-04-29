@@ -6,7 +6,7 @@ body { background-image:url('https://drive.google.com/uc?id=0B6Yp-3OGVxpFQWRLWWp
 }
 header h1{
   text-align: center;
-    background-color: #ff0000;
+    background-color: #0000ff;
     
 }
 nav li {
@@ -19,19 +19,11 @@ article{
     margin: 90px;
     padding: 14px;
     width: 650px;
-    background-color: Red;
+    background-color: Blue;
     font-size: 18px;
 }
 article p{
     float : center;
-}
-aside{
-     float: right;
-    border: 5px solid #f00000; 
-    font-size: 10px;
-    padding: 2px;
-    margin-top: 210px; 
-    margin-right: 4px;
 }
 ul#navlist
 {
@@ -57,11 +49,11 @@ text-decoration: none;
 
 #navlist a:hover
 {
-color: #f00;
+color: #00f;
 background-color: #000;
 text-decoration: none;
 }
-}
+
 @media screen and ( max-width: 992px) {
     #wrapper {
         width: 94%;
@@ -80,11 +72,6 @@ text-decoration: none;
 article{
  width: auto; 
  float: none;
-}
-
-aside{
-    width: auto;
-    float: none;
 }
 }
 
