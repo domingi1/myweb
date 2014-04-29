@@ -12,10 +12,23 @@ header{
     font-weight: bold;
 }
 h1{
-    font-size: 15px;
+    font-size: 18px;
 }
 
 ul2{
     list-style-type: none;
     clear: left;
 }
+
+ul4{
+    float: right;
+}
+ul3{
+    float: right;
+    list-style-type: none;
+}
+p1{
+    font-weight: bold;
+}
+
+
