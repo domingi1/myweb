@@ -9,7 +9,8 @@ img{
     padding: 10px;
     float: left;
 }
-
+iframe{
+  width:550px;
 }
 ul#navlist
 {
