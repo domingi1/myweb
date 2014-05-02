@@ -65,11 +65,13 @@ text-decoration: none;
  footer {
      font-size: 12px;
  }
-form{
- width: 10px;
-}
+ form{
+      width: 10px;
+ }
+
 img {
     border: 5px solid;
     border-color: rgb(0,150,255);
     margin: 50px;
 }
+
