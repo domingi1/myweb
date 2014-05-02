@@ -9,7 +9,10 @@ img{
     padding: 10px;
     float: left;
 }
-
+iframe{
+  
+  width: 550;
+}
 }
 ul#navlist
 {
