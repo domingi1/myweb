@@ -30,7 +30,7 @@ ul{
 }
 article {
     border: 5px solid #000000;
-    margin-left: 350px;
+    margin-left: 400px;
     margin-top:50px;
     padding: 14px;
     background: #0000ff;
@@ -39,7 +39,7 @@ article {
     font-family: Arial;
 }
 aside{
-   margin-left:350px;
+   margin-left:400px;
    margin-top:50px;
 }
 ul#navlist
