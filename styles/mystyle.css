@@ -28,7 +28,7 @@ ul{
 }
 article {
     border: 5px solid #000000;
-    margin-left: 250px;
+    margin-left: 300px;
     margin-top:50px;
     padding: 14px;
     background: #0000ff;
@@ -37,8 +37,8 @@ article {
     font-family: Arial;
 }
 aside{
-      margin-left: 250px;
-     margin-top:50px;
+   margin-left:300px;
+   margin-top:50px;
 }
 ul#navlist
 {
