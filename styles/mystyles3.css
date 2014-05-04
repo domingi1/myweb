@@ -17,9 +17,13 @@ nav li {
     display: inline;
     margin: 10px;
 }
+nav ul{
+    text-align: center;
+}
 article{
  border: 5px solid #000000;
-    margin: 90px;
+    margin-left: 250px;
+    margin-top: 50px;
     padding: 14px;
     width: 650px;
     background-color: Blue;
