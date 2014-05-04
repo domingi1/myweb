@@ -7,14 +7,8 @@ body { background-image:url('https://drive.google.com/uc?id=0B6Yp-3OGVxpFQWRLWWp
    /* height: 880px; */
   
 }
-header {
-    width: 100%;
-    height: 50px;
-    background:rgb(0,55, 156);
-    text-align: center;
-}
- article-header{
-    background:#00ffff;
+header h1{
+    background-color: blue;
     text-align: center;
 }
 nav,aside {
@@ -23,20 +17,28 @@ nav,aside {
 }
 li{
     list-style-type: None;
-    border: 5px solid #000000;
+    border: 4px solid #000000;
     width: 450px;
     font-size: 20px;
-   
+    background-color: blue;
+    
 }
-
-article{
+ul{
+    text-align: center;
+}
+article {
+    border: 5px solid #000000;
+    margin-left: 250px;
+    margin-top:50px;
+    padding: 14px;
     background: #0000ff;
-    width: 500px;
-    float: center;
-    margin: 90px;
+    width: 550px;
+    font-size: 18px;
+    font-family: Arial;
 }
 aside{
-    margin: 80px;
+      margin-left: 250px;
+     margin-top:50px;
 }
 ul#navlist
 {
@@ -102,6 +104,5 @@ aside{
         display: none;
     }
 }
-
 
 
