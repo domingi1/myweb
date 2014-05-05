@@ -2,23 +2,26 @@ body { background-image:url('https://drive.google.com/uc?id=0B6Yp-3OGVxpFQWRLWWp
 }
 h1{
   text-align: center;
+  border: 2px solid #000000;
+  background-color: blue;
+}
+img{
+    width:  400px;
+    height: 400px;
 }
 
-img{
-    border: 5px solid #0000ff;
-    padding: 10px;
-    clear: left;
-}
-iframe{
+ iframe{
   
-  width: 550px;
+  width: 400px;
+  height:400px;
 }
-}
+
 ul#navlist
 {
 margin-left: 0;
 padding-left: 0;
 white-space: nowrap;
+text-align: center;
 }
 
 #navlist li
