@@ -1,13 +1,14 @@
 body{
     background-image:url('https://drive.google.com/uc?id=0B6Yp-3OGVxpFQWRLWWplREs4ck0');");
- background-repeat:none;
+    background-repeat:none;
 }
+
 .boxed{
     border: 5px solid #000000;
     width: 680px;
     height: 1080px;
     padding: 20px;
-    margin: 200px;
+    margin-left: 250px;
     margin-top: 80px;
    background-color: white;
 }
@@ -33,24 +34,13 @@ header{
 h1{
     font-size: 16px;
 }
-
-ul2{
-    clear: left;
-}
-
-ul4{
-    float: right;
-}
 ul3{
     float: right;
-    list-style-type:none;
 }
 ul8{
     margin: 330px;
 }
-    ul9{
-       list-style-type: none; 
-}
+ 
 p1{
     font-weight: bold;
 }
@@ -83,5 +73,4 @@ color: #00f;
 background-color: #000;
 text-decoration: none;
 }
-
 
